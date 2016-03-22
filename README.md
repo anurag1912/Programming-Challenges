@@ -1,3 +1,3 @@
-# some_programming_challenges
+# Programming_Challenges
 
-Some interesting and challenging programming challenges!
+Some interesting programming challenges solved!
