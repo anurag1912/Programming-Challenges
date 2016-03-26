@@ -1,3 +1,7 @@
+/* Simple instruction set simulator for RISC architectures. Basic instructions such as MOV, ADD, JMP ,JE, LD and ST implemented. The
+simulator also counts executed instructions, number of hits to local memory, and number of load/store instructions.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
